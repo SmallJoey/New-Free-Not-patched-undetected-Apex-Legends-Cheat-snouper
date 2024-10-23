@@ -39,7 +39,6 @@ Welcome to **Snouper**, the latest **free** and **undetected** cheat for **Apex 
 - Make sure you have the latest version of the tool.
 - Disable your antivirus if it's blocking the cheat (may falsely detect it as harmful).
 - **Does not work on Virtual Machines**.
-- For additional help, visit our [FAQ](https://github.com/yourrepo/Snouper/wiki/FAQ) or [Discord](https://discord.gg/yourserver).
 
 ---
 
